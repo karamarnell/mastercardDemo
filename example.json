@@ -1,0 +1,20 @@
+{
+  "title" : "masterpass por mastercard",
+  "welcome" : "Rápido. Su cuenta está temporalmente bloqueada. Por favor, introduzca los detalles de su tarjeta para continuar.",
+  "headline" : "Vuela a través de la caja con Masterpass.",
+  "interest" : "Revise de forma rápida y segura en millones de sus minoristas favoritos, en línea o en aplicaciones.",
+  "what_is_masterpass?" : "Masterpass es una billetera digital que te permite revisar más rápido sin importar cómo compres. Simplemente almacene su información de pago y envío en un lugar seguro para una experiencia de pago simple, rápida y segura.",
+  "shop_anywhere" : "Su información de envío y pago preferida está precargada, por lo que puede verificar rápidamente con solo su ID de usuario y contraseña.",
+  "secure_account" : "Cargue su billetera digital Masterpass con cualquier tarjeta de crédito o débito participante de cualquier emisor y red, no solo sus tarjetas Mastercard.",
+  "start_today" : "Simplemente cree su cuenta y cargue cualquier tarjeta de crédito o débito participante para comenzar.",
+  "step_one" : "Ingrese correo electrónico o número de teléfono verificado. Esta información nos ayuda a encontrar el Masterpass adecuado para usted.",
+  "step_two" : "Cargue su Masterpass con la tarjeta principal que desea usar para crear su cuenta. No se preocupe, es fácil cambiar los métodos de pago preferidos sobre la marcha.",
+  "step_three" : "Asegúrese de que sea una contraseña segura con letras y números.",
+  "congratulations" : "Eso es todo: ahora puede disfrutar de una forma nueva y moderna de pagar con Masterpass. ¡Empieza a comprar hoy con tus tiendas favoritas!",
+  "global" : "La red Anycast global de Cloudflare que consiste en centros de datos {{globals['site']['DataCenterCount']}} abarca los países {{globals['site']['CountryCount']}}, ofrece una red troncal de infraestructura escalable que evita el tiempo de inactividad y la falta de disponibilidad.",
+  "security" : "Cuando compra con Masterpass ™, puede sentirse seguro sabiendo que las capas de seguridad de Mastercard protegen la identidad y los detalles reales de su tarjeta. ¡No más perder su billetera o buscar el pago correcto!",
+  "advanced_data_protection" : "Su dirección y los detalles de la tarjeta se almacenan de manera segura, de modo que solo usted puede acceder a ellos.",
+  "sign_up " : "Primero, vaya a la página de inicio de Masterpass. Haga clic o toque Iniciar sesión. Para abrir una cuenta de billetera por este emisor, asegúrese de ingresar una tarjeta por este emisor durante el registro. Es tan simple como eso. Incluso puede registrarse mientras compra en línea seleccionando el botón Masterpass en el momento de la salida, donde se acepta.",
+  "prescribers" : "No hay tarifas o cargos para utilizar Masterpass. Su operador de telefonía móvil puede incurrir en tarifas de mensajería estándar si opta por recibir alertas de mensajes de texto.",
+  "saftey" : "La seguridad de su cuenta es nuestra principal prioridad. Masterpass es impulsado por Mastercard, que tiene una larga reputación de confianza y seguridad. Nuestros servidores y tecnología seguros están diseñados para proteger su información."
+}
